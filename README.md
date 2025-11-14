@@ -2,7 +2,14 @@ MovingObjectDetection-openCV
 
 Moving object detection is a technique used in computer vision and image processing. Multiple consecutive frames from a video are compared by various methods to determine if any moving object is detected. Moving objects detection has a wide range of applications like video surveillance, activity recognition, road condition monitoring, airport safety, monitoring of protection along marine border, etc. By acting segmentation among moving objects and stationary area or region, the moving objects motion could be tracked and thus could be analyzed later. To achieve this, consider a video is a structure built upon single frames, moving object detection is to find the foreground moving target(s), either in each video frame or only when the moving target show the first appearance in the video.
 
-**Steps Involved**
+## Demo
+
+
+
+https://github.com/user-attachments/assets/75cab399-2024-484a-8482-86e3794e23c8
+
+
+## Steps Involved
 
 1.Extract Background in Video Input :
 Capturing the Video in 'cap' and extract 30 random frames and store the selected frames in an array
